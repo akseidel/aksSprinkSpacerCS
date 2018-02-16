@@ -17,3 +17,9 @@
 - The **Dominator** box indicates which dimension, if it does, drives the optimum spacing. There are some space and sprinkler design limits where there is only one optimum solution spacing X by Y where a spacing layout Y by X actually requires more sprinklers.
 - In the image shown the optimum spacing is 14.42 x 10.89. If this space has a 2 foot module ceiling tile layout that requires the sprinklers to be spaced in 2 foot increments then the layout design has to be 14 feet in the L direction to meet the design limits selections.
 - For the image shown if the space is going to have upright sprinklers the **Max Frm Wall** and the **Even Dist Between** numbers are used for making free air sprinkler location placement decisions.
+
+### To Do
+
+This application goes back 15 years or more to an Autodesk AutoCAD VBA version that is used in combination with a graphic layout template that the application could synchronize with the tool. The graphic layout provides a snapping grid for placing sprinklers and allows the layout to be visualized with the AutoCAD space graphics. In AutoCAD this implementation is essentially instantaneous and therefore the tool has benefits.
+
+The To Do for this application is to provide a similar device in an AutoDesk Revit application. Unfortunately the awkward and sluggish UI for Revit, plus its additional complications associated with the Revit model schemes, severely dampens the incentive for pursuing a solution.    
