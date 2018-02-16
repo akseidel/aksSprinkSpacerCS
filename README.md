@@ -12,7 +12,7 @@
 ### Brief Explanation How It Might Be Used
 
 - Length and Width are the space dimensions from wall to wall. The upper boxes are numbers in decimal feet. The two boxes below the Length and Width are where feet and inches may be entered.
- - For example if the room length is 43'-3" then enter the 43 in the foot box and 3 in the inches box. Any entered inches number larger than or equal to 12 will be accepted.
+   - For example if the room length is 43'-3" then enter the 43 in the foot box and 3 in the inches box. Any entered inches number larger than or equal to 12 will be accepted.
 - The **Opt Space** fields are the calculated optimum sprinkler spacing in the direction indicated. The optimum spacing is what results in the least number of sprinklers in that direction using the selections the in **Max Op Area** and **Max Spacing** pulldown comboboxes.
 - The **Dominator** box indicates which dimension, if it does, drives the optimum spacing. There are some space and sprinkler design limits where there is only one optimum solution spacing X by Y where a spacing layout Y by X actually requires more sprinklers.
 - In the image shown the optimum spacing is 14.42 x 10.89. If this space has a 2 foot module ceiling tile layout that requires the sprinklers to be spaced in 2 foot increments then the layout design has to be 14 feet in the L direction to meet the design limits selections.
