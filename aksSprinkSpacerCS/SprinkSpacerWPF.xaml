@@ -281,7 +281,7 @@
                                   VerticalContentAlignment="Center"
                                   HorizontalContentAlignment="Center"
                                   SelectionChanged="ComboBoxMaxSprinkOpArea_SelectionChanged" />
-                        <Label Content="Mac Spacing"
+                        <Label Content="Max Spacing"
                                Grid.Column="5"
                                Grid.Row="2"
                                HorizontalContentAlignment="Right"
