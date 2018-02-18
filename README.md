@@ -8,6 +8,7 @@
 - A simple tool for determining the optimum automatic fire sprinkler spacing for a space which in turn is used to plan an NFPA 13 design layout.
 - The tool is useful for someone familiar with the decisions necessary to layout automatic fire sprinklers in a space given a set of sprinkler design criteria limits.
 - The tool also figures the ***nominal*** water supply demand that applies to specific design criteria. The supply demand is useful for quickly noticing the relative difference in demand between design layout choices. The ***nominal*** water supply demand is not the actual water supply demand and should not be interpreted as such.
+- Press ESC key to exit the program.
 
 ### Brief Explanation How It Might Be Used
 
