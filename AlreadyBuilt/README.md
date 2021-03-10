@@ -1,6 +1,5 @@
 
- ![](../aksSprinkSpacerCS/Images/SprnkSpacer.ico)
-# AlreadyBuilt   
+# AlreadyBuilt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](../aksSprinkSpacerCS/Images/SprnkSpacer.ico)
 
 File                  | Description
 ----------------------|---------------------------
